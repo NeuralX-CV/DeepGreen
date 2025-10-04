@@ -18,7 +18,7 @@ The latest model achieves:
 - **Training Stability**: No catastrophic forgetting or policy degradation
 - **Exploration Strategy**: Proper epsilon decay from exploration to exploitation
 
-![Training Progress](training_progress_example.png)
+![Training Progress](greenhouse_dqn_training_results.png)
 
 ## 🛠️ Installation
 
