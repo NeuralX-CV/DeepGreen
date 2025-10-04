@@ -24,7 +24,7 @@ The latest model achieves:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/greenhouse-dqn-control.git
+git clone https://github.com/NeuralX-CV/DeepGreen.git
 cd greenhouse-dqn-control
 
 # Create virtual environment
