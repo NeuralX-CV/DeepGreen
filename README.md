@@ -178,23 +178,6 @@ def execute_action(action):
 3. **Real-time monitoring** of model decisions
 4. **Regular model retraining** with real greenhouse data
 
-## 📁 Project Structure
-
-```
-greenhouse-dqn-control/
-├── greenhouse_dqn.py          # Main DQN implementation
-├── best_dqn_greenhouse.pth    # Pre-trained model weights
-├── requirements.txt           # Python dependencies
-├── README.md                  # This file
-├── examples/
-│   ├── train_model.py        # Training script example
-│   ├── test_model.py         # Testing script example
-│   └── iot_integration.py    # IoT integration example
-└── docs/
-    ├── hyperparameter_tuning.md
-    ├── deployment_guide.md
-    └── troubleshooting.md
-```
 
 ## 🧪 Testing
 
